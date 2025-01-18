@@ -18,5 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yudiatmoko&show_icons=true&theme=dracula&locale=en" alt="yudiatmoko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yudiatmoko&theme=dark" alt="yudiatmoko" /></p>
-
